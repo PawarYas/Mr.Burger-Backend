@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "native-server",
+    "name": "mrburger-backend",
     "builds": [
         {
             "src": "./server.js",
